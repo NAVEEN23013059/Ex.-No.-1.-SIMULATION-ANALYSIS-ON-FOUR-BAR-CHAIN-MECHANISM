@@ -53,7 +53,10 @@
 
 
 ## Output:
+![image](https://github.com/NAVEEN23013059/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319555/1314eefe-65d8-40ee-aa1b-4bdfcef2a4f8)
+![image](https://github.com/NAVEEN23013059/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319555/e2971aae-6c33-4189-acf9-be63efc83654)
 
+![image](https://github.com/NAVEEN23013059/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319555/fdebf64c-2874-4f03-be1d-f2ad4fcc098b)
 
 
 ### Name:S.NAVEEN
